@@ -1,0 +1,7 @@
+Librerias de python utilizadas a lo largo de la solemne1:
+- Json : Codificación y decodificación de datos JSON. Se utiliza para leer y escribir archivos JSON, que son un formato de datos ligero                            y fácil de leer por humanos.
+
+- Requests : Realiza solicitudes HTTP. Se utiliza para obtener datos de APIs web y otros servidores.
+- Pandas : Manipulación y análisis de datos. Se utiliza para leer, limpiar, transformar y analizar datos de diferentes formatos.
+- Seaborn : Visualización de datos. Se utiliza para crear gráficos y visualizaciones de datos.
+- Matplotlib.pyplot : Creación de gráficos. Se utiliza para crear gráficos de dispersión, histogramas, gráficos de líneas y otros tipos de gráficos.
