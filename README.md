@@ -1,6 +1,6 @@
 # Análisis de COVID-19 a Nivel Mundial
 En este proyecto voy a tratar el siguiente DataSet : API for Latest Covid-19 Data. 
-Esta API la obutvimos del siguiente sitio en Github : https://github.com/public-apis/public-apis#health.
+Esta API la obutvimos del siguiente sitio en Github : https://coronavirus.m.pipedream.net 
 A modo de resumen : Se toman los datos de esta API para luego ordenarlos en un DataFrame de pandas , y luego se realizan diferentes visualizaciones para diferentes consultas especificas de datos para finalmente analizarlas. 
 
 ### Resumen
